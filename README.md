@@ -5,7 +5,7 @@ You can start the software by running `python main.py` on the command line. You 
 
 I wrote this software because I wanted to gain some experience using `sqlite3` with python. I stumbled upon this dataset and it seemed like something that would be useful to query. It was definitely a good exercise.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HvoeGN9V6ZI)
 
 # Relational Database
 
