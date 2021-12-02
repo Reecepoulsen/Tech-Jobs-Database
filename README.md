@@ -33,8 +33,9 @@ Tools used in developing this software:
 * SQLite Extension
 * Data Source: Kaggle.com
 
-Language:
+Languages:
 * Python
+* SQL
 
 Libraries:
 * SQLite3
